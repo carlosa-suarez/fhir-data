@@ -1,0 +1,20 @@
+{
+  "name": "fhirdata",
+  "version": "1.0.0",
+  "description": "Project to provide mock data to API\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[populate mock \u001b[2~data to API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fhir",
+    "mock",
+    "data"
+  ],
+  "author": "Exscribe",
+  "license": "ISC",
+  "dependencies": {
+    "fhir": "^4.4.9",
+    "request": "^2.88.0"
+  }
+}
